@@ -249,6 +249,10 @@ valid = totp.verify("123456")
 This project may include generated example code or documentation written with the help of AI tools. Review and audit any generated code before deploying.
 
 ---
+## 🎥 Demo
+
+[![Watch the demo](https://img.youtube.com/vi/-8jv_knoUHM/maxresdefault.jpg)](https://youtu.be/-8jv_knoUHM)
+
 
 ## 🤝 Contributing
 
@@ -263,8 +267,6 @@ Contributions are welcome. Please follow these steps:
 Please include tests and update documentation where applicable.
 
 ---
-
-
 
 ## 📬 Contact
 
