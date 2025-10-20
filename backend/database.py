@@ -4,7 +4,7 @@ from sqlalchemy.orm import sessionmaker
 
 # MySQL credentials
 USERNAME = "root"
-PASSWORD = "Madhuri@2002"
+PASSWORD = "-------"
 HOST = "localhost"
 PORT = "3306"
 DATABASE = "secureapp"
